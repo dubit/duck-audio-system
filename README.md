@@ -14,6 +14,6 @@ Documents **ComingSoon™**.
 ## DUCK
 
 This repo is part of DUCK (dubit unity component kit)
-DUCK is a series of repos containing reusable component, utils, systems & tools. 
+DUCK is a series of repos containing reusable component, utils, systems & tools.
 
-DUCK packages can be added to a project as git submodules or by using [Unity Package Manager](https://docs.unity3d.com/Manual/upm-git.html). 
+DUCK packages can be added to a project as git submodules or by using [Unity Package Manager](https://docs.unity3d.com/Manual/upm-git.html).
