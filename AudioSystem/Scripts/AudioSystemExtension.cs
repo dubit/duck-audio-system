@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace DUCK.AudioSystem
+namespace Duck.AudioSystem
 {
 	/// <summary>
 	/// Helpers for using the Audio System

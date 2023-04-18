@@ -3,7 +3,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace DUCK.AudioSystem.Editor
+namespace Duck.AudioSystem.Editor
 {
 	[CustomEditor(typeof(AudioConfig))]
 	[CanEditMultipleObjects]

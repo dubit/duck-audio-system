@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-namespace DUCK.AudioSystem
+namespace Duck.AudioSystem
 {
 	[CreateAssetMenu(menuName = "Sequence Audio Config (Fancy™)", order = 220)] // Right after Audio Mixer
 	public class AudioConfigSequence : AbstractAudioConfig

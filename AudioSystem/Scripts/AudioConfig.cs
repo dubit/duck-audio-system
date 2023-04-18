@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-namespace DUCK.AudioSystem
+namespace Duck.AudioSystem
 {
 	public abstract class AbstractAudioConfig : ScriptableObject { }
 
