@@ -1,0 +1,10 @@
+{
+    "name": "Duck.Audio",
+    "references": [
+        "Duck.Utils"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
