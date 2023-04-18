@@ -6,7 +6,7 @@ namespace Duck.Editor.Inspectors
 {
     public abstract class ArrayInspector : UnityEditor.Editor
     {
-    protected abstract string arrayPropertyName { get; }
+		protected abstract string arrayPropertyName { get; }
 
 		protected virtual int arrayFoldoutBitmask { get { return -1; } set { /*Default: do nothing*/ } }
 
