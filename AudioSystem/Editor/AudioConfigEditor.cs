@@ -5,6 +5,7 @@ using UnityEngine;
 
 namespace DUCK.AudioSystem.Editor
 {
+	[CustomEditor(typeof(AudioConfig))]
 	[CanEditMultipleObjects]
 	public class AudioConfigEditor : UnityEditor.Editor
 	{
