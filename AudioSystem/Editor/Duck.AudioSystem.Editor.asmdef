@@ -1,0 +1,17 @@
+{
+    "name": "Duck.AudioSystem.Editor",
+    "references": [
+        "GUID:bf5652cc6ff98a24fb3fa035b8edf588",
+        "GUID:d9031c9e9486450e806ce5513f62b8d1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
