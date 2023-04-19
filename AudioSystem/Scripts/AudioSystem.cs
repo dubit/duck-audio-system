@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Audio;
 
-namespace DUCK.AudioSystem
+namespace Duck.AudioSystem
 {
 	/// <summary>
 	/// A simple and lightweight Audio System

@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace DUCK.AudioSystem.Editor
+namespace Duck.AudioSystem.Editor
 {
 	public class AudioClipContextMenuExtensions : UnityEditor.Editor
 	{

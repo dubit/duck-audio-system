@@ -3,9 +3,9 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace DUCK.AudioSystem.Editor
+namespace Duck.AudioSystem.Editor
 {
-//	[CustomEditor(typeof(AudioConfig))]
+	[CustomEditor(typeof(AudioConfig))]
 	[CanEditMultipleObjects]
 	public class AudioConfigEditor : UnityEditor.Editor
 	{

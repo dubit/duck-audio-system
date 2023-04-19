@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Object = UnityEngine.Object;
 
-namespace DUCK.AudioSystem
+namespace Duck.AudioSystem
 {
 	/// <summary>
 	/// Unity Object Dictionary is designed as a Dictionary-like Container that holding an Unity Object as a reference key.
